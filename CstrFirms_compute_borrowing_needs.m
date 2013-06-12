@@ -1,0 +1,1 @@
+CstrFirms.BorrowingNeeds = max(CstrFirms.Dividends + CstrFirms.TotalInterestPayments - CstrFirms.Liquidity,0);

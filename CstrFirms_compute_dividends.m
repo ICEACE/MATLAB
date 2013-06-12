@@ -1,0 +1,1 @@
+CstrFirms.Dividends = max(0,CstrFirms.Earnings);

@@ -1,0 +1,2 @@
+%Banks.TotalInterestPayments = (PriceIndices.CBInterestRate/4)*Banks.CentralBankDebt; % EJE changed interest rate from "InterestRate" to "CBInterestRate"
+Banks.TotalInterestPayments = zeros(1,NrAgents.Banks);

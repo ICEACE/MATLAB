@@ -1,0 +1,1 @@
+Banks.Earnings = Banks.Earnings + Banks.TotalInterestProceeds - Banks.TotalInterestPayments;

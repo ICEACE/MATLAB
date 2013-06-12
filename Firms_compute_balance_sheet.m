@@ -1,0 +1,3 @@
+Firms.TotalAssets = (PriceIndices.CapitalGoods*Firms.PhysicalCapital) + ...
+    (PriceIndices.ConsumptionGoods*Firms.Inventories) + Firms.Liquidity;
+Firms.Equity = Firms.TotalAssets - Firms.TotalDebts;

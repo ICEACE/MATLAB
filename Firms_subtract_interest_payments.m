@@ -1,0 +1,1 @@
+Firms.Liquidity = Firms.Liquidity - Firms.TotalInterestPayments;
